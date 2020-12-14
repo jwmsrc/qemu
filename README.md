@@ -1,4 +1,4 @@
-misc qemu
+misc qemu for Raspberry PI emulation with megatree LED configuration - baremetal 
 
 
 Debug example:
